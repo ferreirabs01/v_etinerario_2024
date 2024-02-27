@@ -12,7 +12,10 @@ ao iniciar clique em start no mysql e garanta que o mesmo executa sem erros ante
 
 ![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/49f8a4cb-53ed-46a9-b37c-ecbd2a2ece92)
 
-Garanta que o status fiqeu como runnig
+
+Garanta que o status fique como runnig
+
+
 ![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/1e59535c-fa56-4e4e-9bcd-ec0e66f51cfa)
 
 

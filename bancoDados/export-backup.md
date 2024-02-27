@@ -2,7 +2,8 @@ Para realizar a exportação siga os passos:
 No HeidiSQL:
     Acesse : Ferramentas > Exportar banco de dados como SQL 
 
-    ![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/58cefc8d-c10f-468d-8a3c-c28700f4d655)
+![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/697b6304-6fc5-405a-858d-36ee69ae231b)
+
 
 
 Selecione o banco que você irá exportar, selecione um local e um nome para salvar o arquivo da exportação, os demais campos confira para que fique como na imagem.

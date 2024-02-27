@@ -34,3 +34,8 @@ Pelo heidiSQL garanta que tenha registrado a conexão da sua maquina local, util
 ![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/d8d286d7-da19-4578-9fcf-b9dd2266c091)
 
 Ao abrir garanta que as bases de dados registradas anteriormente estejam listadas a esquerda. Em novas instalções você ira criar as bases conforme demanda.
+
+
+![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/9eb1149f-95ad-4efa-8bbc-2ef8b5433a26)
+
+

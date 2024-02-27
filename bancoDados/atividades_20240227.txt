@@ -20,7 +20,7 @@
       campos (id matricula, id pessoa, id turma, data inicio , data fim)
 
 
-Utilizem o tipo de dado de acordo com o campo a ser criado, utilizem chave primaria, auto incremento, nao permitir null, chave estrangeiras (foreing keys
+Utilizem o tipo de dado de acordo com o campo a ser criado, utilizem chave primaria, auto incremento, nao permitir null, chave estrangeiras (foreing keys) conforme necessidade de cada situação.
 
 
 

@@ -1,4 +1,4 @@
-# v_etinerario_2024
+# Inicializar as ferramentas: 
 Atividades aplicadas em aulas 
 
 

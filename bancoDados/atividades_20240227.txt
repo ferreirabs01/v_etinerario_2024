@@ -1,6 +1,28 @@
-// 1 - Crie um banco de dados chamado 
+// 1 - Crie um banco de dados chamado escola
 
-// 2 - crie tabelas 
+// 2 - crie tabelas:
+  pessoas
+        campos (id pessoa, nome, cpf, endereco, data de nascimento, tipo de pessoa (tipo de pessoas pode ser aluno, professor, diretor, etc... para isso criar uma tabela tipo_pessoa referenciando com chave estrangeira)
 
-// 3 - Faça Insert 
+  tipo_pessoa
+        campos (id tipo pessoa, descricao do tipo (aluno, professor, diretor, etc)
+
+  disciplinas
+        campos (id disciplina, abreviação, descrição da disciplina, carga horaria da disciplina)
+
+  turmas
+      campos (id turma, descrição da turma, periodo (manha, tarde, noite, integral), unidade(presidente prudente, alvares machado, presidente bernardes, etc...)
+
+  horarios_professor
+      campos (id horario, id turma , id pessoa, hora inicial, hora final, dia da semana (segunda, terca, quarta, quinta, sexta, sabado, domingo)
+
+  matricula_alunos
+      campos (id matricula, id pessoa, id turma, data inicio , data fim)
+
+
+Utilizem o tipo de dado de acordo com o campo a ser criado, utilizem chave primaria, auto incremento, nao permitir null, chave estrangeiras (foreing keys
+
+
+
+// 3 - Populem as tabelas criadas no item 2.
 

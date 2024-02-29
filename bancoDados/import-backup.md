@@ -1,6 +1,7 @@
-**#Para importar as bases de dados exportadas. (dump sql)**
+**Para importar as bases de dados exportadas. (dump sql)**
 -----------------------------------------------------------
-
+Antes de seguir garanta que as ferramentas estão em execução no computador, para tal seguir iniciarFerramentas.md
+---
 Pelo HeidiSQL 
 -------------
 ![image](https://github.com/ferreirabs01/v_etinerario_2024/assets/87094578/5cf1ec11-c14f-46c0-b8b3-b7ea0305ae0a)

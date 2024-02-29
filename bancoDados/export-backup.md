@@ -1,4 +1,7 @@
 Para realizar a exportação siga os passos: 
+---
+Antes de seguir garanta que as ferramentas estão em execução no computador, para tal seguir iniciarFerramentas.md
+---
 No HeidiSQL:
     Acesse : Ferramentas > Exportar banco de dados como SQL 
 

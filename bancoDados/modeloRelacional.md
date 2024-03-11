@@ -17,7 +17,9 @@ Um dicionário dados é um documento usado para armazenar informações sobre o 
 
 Vamos criar nosso dicionário de dados do banco de vendas:
 
-[planilha_Dicionario_dados](./documento/Dicionário%20de%20dados.xlsx)
+[planilha_Dicionario_dados](https://github.com/ferreirabs01/v_etinerario_2024/raw/main/bancoDados/documento/Dicion%C3%A1rio%20de%20dados.xlsx)
+
+
 
 
 

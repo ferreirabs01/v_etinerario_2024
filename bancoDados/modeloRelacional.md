@@ -19,9 +19,21 @@ Vamos criar nosso dicionário de dados do banco de vendas:
 
 [planilha_Dicionario_dados](https://github.com/ferreirabs01/v_etinerario_2024/raw/main/bancoDados/documento/Dicion%C3%A1rio%20de%20dados.xlsx)
 
+Para quem precise criar o banco novamente segue link do script de criação com alguns dados ficticios.
+
+[banco_dados_vendas](https://github.com/ferreirabs01/v_etinerario_2024/raw/main/bancoDados/documento/vendas.zip)
+
+Para Orientações de como importar confira no git: 
+
+[git_orientaçoes](https://github.com/ferreirabs01/v_etinerario_2024/tree/main/bancoDados/instalacoes)
 
 
 
+MER
+---
+
+DER
+---
 
 
 

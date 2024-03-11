@@ -113,5 +113,15 @@ como podemos realizar a normalização destas duas colunas?
 
 
 
+> ATIVIDADE NORMALIZAÇÃO 
+
+A planilha a seguir retrata uma forma de registro na mesma tabela de dados refêrente a vendas de produtos eletrônicos com registro de custos, estoque, clientes e fornecedores.
+Você deve avaliar, de acordo com o conteúdo abordado, qual é a modelagem ideal para atender as normalizações apresentadas anteriormente.
+Refaça no proprio excel a nova modelagem, a partir da nova modelagem, crie uma nova base de dados chamada comercio e crie as entidades (Tabelas), atributos(campos), e popule de acordo com o dados expressos na planilha. Altere conforme necessidade, crie tambem o dicionário de dados do banco comércio.
+
+
+[Atividade_Normalizacao](https://github.com/ferreirabs01/v_etinerario_2024/raw/main/bancoDados/documento/NORMALIZACAO_ATIVIDADE01.xlsx)
+
+
 
 

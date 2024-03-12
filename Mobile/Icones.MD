@@ -2,23 +2,25 @@
 
 Saiba como usar vários tipos de ícones em seu aplicativo Expo, incluindo ícones vetoriais, fontes de ícones personalizadas, imagens de ícones e botões de ícones.
 
-Nem todo aplicativo precisa usar emojis para ícones. Você pode usar um conjunto de ícones popular através de uma fonte de ícone como FontAwesome, Glyphicons ou Ionicons, ou escolher PNGs de O Projeto Noun. Este guia explica várias maneiras de usar ícones em seu aplicativo Expo.
+Nem todo aplicativo precisa usar emojis para ícones. Você pode usar um conjunto de ícones popular através de uma fonte de ícone como FontAwesome, Glyphicons ou Ionicons, ou escolher PNGs. Este guia explica várias maneiras de usar ícones em seu aplicativo Expo.
 
-@expo/vector-icons
-O @expo/vector-icons a biblioteca é instalada por padrão no projeto de modelo usando npx create-expo-app e faz parte do expo pacote. É construído em cima de react-native-vector-icons e usa uma API semelhante. Ele inclui conjuntos de ícones populares que você pode navegar ícones.expo.fyi.
+<h1>@expo/vector-icons</h1>
 
-O componente carrega o Ionicons fonte e renderiza um ícone de marca de seleção no seguinte exemplo:
+O @expo/vector-icons é uma biblioteca que é instalada por padrão no projeto de modelo usando o comando: <strong><h5>npx create-expo-app</h5></strong> E essa biblioteca faz parte do pacote do expo. É construído em cima de react-native-vector-icons e usa uma API semelhante. Ele inclui conjuntos de ícones populares que você pode navegar ícones.expo.fyi.
+
+O componente carrega o <strong>Ionicons</strong> e renderiza um ícone de marca de seleção no seguinte exemplo:
 
 
 ![alt text](image.png)
 
 
-Como com qualquer fonte personalizada na Expo, você pode pré-carregar fontes de ícone antes de renderizar seu aplicativo. O objeto de fonte está disponível como uma propriedade estática no componente de fonte. No caso acima, é Ionicons.font, que avalia para {ionicons: require('path/to/ionicons.ttf')}.
+Como com qualquer fonte personalizada no Expo, você pode pré-carregar fontes de ícone antes de renderizar o seu aplicativo. O objeto de fonte está disponível como uma propriedade estática no componente de fonte. No caso acima, o Ionicons.font, fica disponível em {ionicons: require('path/to/ionicons.ttf')}.
 
-Fontes de ícone personalizadas
+<h1>Fontes de ícone personalizadas</h1>
+
 Para usar uma fonte de ícone personalizada, primeiro importe-a para o seu projeto. Somente depois que a fonte for carregada, você poderá criar um conjunto de ícones. Saiba mais sobre como carregar fontes personalizadas.
 
-@expo/vector-iconsexpõe três métodos para ajudá-lo a criar um conjunto de ícones:
+@expo/vector-icons expõe três métodos para ajudá-lo a criar um conjunto de ícones:
 
 <h1>createIconSet</h1>
 
@@ -37,8 +39,9 @@ Veja o exemplo abaixo que usa o hook useFonts  para carregar a fonte:
 
 ![alt text](image-2.png)
 
-createIconSetFromFontello
-O createIconSetFromFontello método é usado para criar uma fonte personalizada com base em um Fontello arquivo de configuração. Você tem que salvar o config.json e .ttf em algum lugar conveniente em seu projeto, de preferência no ativos diretório e, em seguida, carregue a fonte usando qualquer um useFonts hook ou Font.loadAsync método de expo-font.
+<h1>createIconSetFromFontello</h1>
+
+O método createIconSetFromFontello  é usado para criar uma fonte personalizada com base em um arquivo de configuração. Você tem que salvar o config.json e .ttf em algum lugar conveniente em seu projeto, de preferência no ativos diretório e, em seguida, carregue a fonte usando qualquer um useFonts hook ou Font.loadAsync método de expo-font.
 
 Segue uma configuração semelhante à createIconSetFromIcoMoon como mostrado no exemplo:
 
